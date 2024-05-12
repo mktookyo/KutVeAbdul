@@ -3,6 +3,7 @@
 // like type the code on arduino ide, then paste them here
 // hello from kutman
 // hello kutman
+<<<<<<< Updated upstream
 =======
 // PinOut
 #define HC_TRIG 9
@@ -37,4 +38,7 @@ float distFiltered(){
 void loop() {  
   
 }
+>>>>>>> Stashed changes
+=======
+//hello again
 >>>>>>> Stashed changes
