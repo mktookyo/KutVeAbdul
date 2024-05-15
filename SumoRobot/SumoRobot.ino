@@ -1,6 +1,7 @@
 // PinOut
-#define HC_TRIG 9
-#define HC_ECHO 10
+// Ultrasonic Sensor #1, Vcc->5V GND->GND
+#define HC_TRIG 9 // Trig pin to D9
+#define HC_ECHO 10 // Echo pin to D10
 
 // Variables
 float distFilt = 0; //distance filtering value 
